@@ -1,6 +1,22 @@
-# <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&size=38&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Ansh+Shukla!+👋" alt="Ansh Shukla" /></a></p>
+<h1 align="center">Ansh Shukla</h1>
 
-### <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Backend+Engineer;App+Developer" alt="Roles" /></a></p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+and+Data+Science+Student;Full+Stack+Developer;Backend+Engineer;App+Developer" alt="Roles" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ansh-shukla-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/anshshuklaoffc/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:ianshshuklaoffc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <p align="center">
   <em>Specializing in B.Tech Artificial Intelligence and Data Science Engineering at MITS. Building scalable backend systems & AI integrations.</em>
@@ -30,10 +46,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anshspc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=a78bfa&text_color=9ca3af&icon_color=ec4899" alt="Ansh Shukla's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshspc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=a78bfa&text_color=9ca3af" alt="Ansh Shukla's Top Languages" width="48%" />
 </p>
-
----
-
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-shukla-/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anshshuklaoffc/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianshshuklaoffc@gmail.com)
